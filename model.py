@@ -8,4 +8,4 @@ def model2:
     print('Model2')
 
 
-print('model2 si performing well')
+print('model2 is performing well')
