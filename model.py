@@ -6,4 +6,6 @@ def model1:
 
 def model2:
     print('Model2')
-    
+
+
+print('model2 si performing well')
